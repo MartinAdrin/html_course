@@ -1,0 +1,36 @@
+body,
+html {
+    height: 100%
+}
+
+h3 {
+    text-align: center;
+}
+
+li.menu {
+    display: inline;
+    padding: 10px;
+}
+
+ul.menu {
+    padding-left: 5%;
+    padding-top: 20px;
+}
+
+ul.menu li.selected {
+    background-color: rgb(224, 196, 158);
+}
+
+.menu {
+    background-color: beige;
+}
+
+p {
+    padding: 5%;
+    padding-bottom: 1%;
+}
+
+img {
+    padding-left: 5%;
+    width: 40%;
+}
